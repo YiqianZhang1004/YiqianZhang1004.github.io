@@ -247,7 +247,7 @@ h6 {
   position: absolute;
   width: 0;
   height: 2px;
-  bottom: -3px;
+  bottom: 0px;
   left: 0;
   background-color: #f16c23;
   visibility: hidden;

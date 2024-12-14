@@ -98,7 +98,7 @@ h6 {
   color: #fff;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 0px;
-  line-height: 5;
+  line-height: 2;
 }
 
 #header img {
@@ -1207,6 +1207,7 @@ section .container {
 
 .lobster-regular {
   font-family: "Lobster", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }

@@ -247,7 +247,7 @@ h6 {
   position: absolute;
   width: 0;
   height: 2px;
-  bottom: -4px;
+  bottom: -3px;
   left: 0;
   background-color: #f16c23;
   visibility: hidden;
@@ -259,7 +259,7 @@ h6 {
 .navbar li:hover>a:before,
 .navbar .active:before {
   visibility: visible;
-  width: 30px;
+  width: 35px;
 }
 
 .navbar a:hover,

@@ -1193,3 +1193,10 @@ section .container {
 .playwrite-fr-moderne-1 {
   font-family: "Playwrite FR Moderne", cursive;
 }
+
+.playwrite-hr-lijeva-2 {
+  font-family: "Playwrite HR Lijeva", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}

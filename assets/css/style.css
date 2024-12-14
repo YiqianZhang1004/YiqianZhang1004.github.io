@@ -1190,21 +1190,6 @@ section .container {
   color: #fff;
 }
 
-/* Apply Playwrite GB J Guides */
-.body-j-guides {
-  font-family: 'Playwrite GB J Guides', sans-serif;
-}
-
-/* Apply Playwrite GB S Guides */
-.body-s-guides {
-  font-family: 'Playwrite GB S Guides', sans-serif;
-}
-
-/* Apply Playwrite VN Guides */
-.body-vn-guides {
-  font-family: 'Playwrite VN Guides', sans-serif;
-}
-
-.fondamento-regular {
-  font-family: "Fondamento", cursive;
+.playwrite-au-qld-1 {
+  font-family: "Playwrite AU QLD", cursive;
 }
